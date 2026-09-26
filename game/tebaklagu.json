@@ -125,6 +125,18 @@
       "artist": "Edwin Laulaka",
       "lagu": "https://cdn.saurusdev.cloud/939pgmW.mp3",
       "image": "https://cdn.saurusdev.cloud/yWgljYluPB.jpeg"
+    },
+    {
+      "answer": "Sesi potret",
+      "artist": "Ari lesmana",
+      "lagu": "https://cdn.saurusdev.cloud/leVv5KX.mp3",
+      "image": "https://cdn.saurusdev.cloud/KLZz3.jpeg"
+    },
+    {
+      "answer": "Bergema sampai selamanya",
+      "artist": "Nadhif Basalamah",
+      "lagu": "https://cdn.saurusdev.cloud/nj25.mp3",
+      "image": "https://cdn.saurusdev.cloud/NKCcWUQ.jpeg"
     }
   ]
 }
