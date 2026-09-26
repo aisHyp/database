@@ -1,6 +1,102 @@
 {
   "tebaklagu": [
     {
+      "answer": "Hilang Harapan",
+      "artist": "Stand Here Alone",
+      "lagu": "https://cdn.saurusdev.cloud/CC7RbW.mp3",
+      "image": "https://cdn.saurusdev.cloud/J70.jpeg"
+    },
+    {
+      "answer": "Beauty and a beat",
+      "artist": "Justin bieber",
+      "lagu": "https://cdn.saurusdev.cloud/gJadUJz.mp3",
+      "image": "https://cdn.saurusdev.cloud/qDBDid0AO.jpeg"
+    },
+    {
+      "answer": "Body pata pata",
+      "artist": "Faris adam, Diva aurel",
+      "lagu": "https://cdn.saurusdev.cloud/Qhn.mp3",
+      "image": "https://cdn.saurusdev.cloud/wVuUv8.jpg"
+    },
+    {
+      "answer": "Tipeku",
+      "artist": "Fani Rahmansyah",
+      "lagu": "https://cdn.saurusdev.cloud/l4Atu20.mp3",
+      "image": "https://cdn.saurusdev.cloud/KDOZo8xya.jpeg"
+    },
+    {
+      "answer": "Malu malu",
+      "artist": "Dia & indahkus",
+      "lagu": "https://cdn.saurusdev.cloud/ejIDGh.mp3",
+      "image": "https://cdn.saurusdev.cloud/CDHh.jpeg"
+    },
+    {
+      "answer": "Sency",
+      "artist": "Tenxi",
+      "lagu": "https://cdn.saurusdev.cloud/te8kAf.mp3",
+      "image": "https://cdn.saurusdev.cloud/tCM.jpg"
+    },
+    {
+      "answer": "My mine gueh",
+      "artist": "Naykilla",
+      "lagu": "https://cdn.saurusdev.cloud/GEeSOVBbv.mp3",
+      "image": "https://cdn.saurusdev.cloud/wWArL7z.jpeg"
+    },
+    {
+      "answer": "Bare minimum",
+      "artist": "Auxrty, arciana",
+      "lagu": "https://cdn.saurusdev.cloud/6zwaoAV.mp3",
+      "image": "https://cdn.saurusdev.cloud/UP9X.jpeg"
+    },
+    {
+      "answer": "Past life",
+      "artist": "Ariana Grande",
+      "lagu": "https://cdn.saurusdev.cloud/bijK61.mp3",
+      "image": "https://cdn.saurusdev.cloud/F6DFgK7U.jpeg"
+    },
+    {
+      "answer": "Piki piki",
+      "artist": "Rian DTM",
+      "lagu": "https://cdn.saurusdev.cloud/q806ffeF.mp3",
+      "image": "https://cdn.saurusdev.cloud/ISOt7.jpg"
+    },
+    {
+      "answer": "Anak kampung",
+      "artist": "Bulan Triana",
+      "lagu": "https://cdn.saurusdev.cloud/zdQ2dTZ2V.mp3",
+      "image": "https://cdn.saurusdev.cloud/cNMc.jpeg"
+    },
+    {
+      "answer": "Seventeen",
+      "artist": "JKT48",
+      "lagu": "https://cdn.saurusdev.cloud/nQ6UrYKP9.mp3",
+      "image": "https://cdn.saurusdev.cloud/ymYAkMLB.jpeg"
+    },
+    {
+      "answer": "Ternyata abu abu",
+      "artist": "Dj qhelfin",
+      "lagu": "https://cdn.saurusdev.cloud/os58L7.mp3",
+      "image": "https://cdn.saurusdev.cloud/uX.jpeg"
+    },
+    {
+      "answer": "Ora urus",
+      "artist": "Toton Caribo",
+      "lagu": "https://cdn.saurusdev.cloud/q9qQ3KUeM.mp3",
+      "image": "https://cdn.saurusdev.cloud/Rxe.jpg"
+    },
+    {
+      "answer": "Ngapain repot",
+      "artist": "Toton Caribo",
+      "lagu": "https://cdn.saurusdev.cloud/uJz.mp3",
+      "image": "https://cdn.saurusdev.cloud/RMAe.jpeg"
+    },
+    {
+      "answer": "Tabola Bale",
+      "artist": "Silet Open Up",
+      "lagu": "https://cdn.saurusdev.cloud/yEBzdL.mp3",
+      "image": "https://cdn.saurusdev.cloud/gJIn.jpg"
+    },
+    {
       "answer": "Teh Hijau",
       "artist": "Tulus",
       "lagu": "https://cdn.saurusdev.cloud/GEVks41i.mp3",
